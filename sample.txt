@@ -1,0 +1,5 @@
+Text to overwrite 
+ the complete data :
+ This is a sample file for demo of file I/O in Python programming language 
+New text being appended
+ to the file
